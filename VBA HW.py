@@ -1,4 +1,4 @@
-Sub HomeWork()
+Sub VBAexample()
     'sets a variable to hold total per ticker
     Dim Vol As Double
     Vol = 0
